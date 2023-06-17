@@ -1,4 +1,3 @@
-import React from 'react';
 import { MovieCardModel } from './models/movies';
 
 
